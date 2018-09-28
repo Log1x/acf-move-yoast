@@ -10,7 +10,7 @@ if (!defined('ABSPATH')) {
 }
 
 /**
- * ExampleField
+ * Yoast Field
  */
 if (!class_exists('YoastField')) {
     class YoastField extends \acf_field
